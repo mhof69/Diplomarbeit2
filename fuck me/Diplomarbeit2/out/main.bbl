@@ -1,0 +1,255 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{template:latex}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=23e5cb7b2980ffd18514c96c89594f93}{%
+           family={Hampölz},
+           familyi={H\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{23e5cb7b2980ffd18514c96c89594f93}
+      \strng{fullhash}{23e5cb7b2980ffd18514c96c89594f93}
+      \strng{bibnamehash}{23e5cb7b2980ffd18514c96c89594f93}
+      \strng{authorbibnamehash}{23e5cb7b2980ffd18514c96c89594f93}
+      \strng{authornamehash}{23e5cb7b2980ffd18514c96c89594f93}
+      \strng{authorfullhash}{23e5cb7b2980ffd18514c96c89594f93}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/hampoelz/HTL_Thesis-Template}}
+      \field{title}{HTL Weiz LaTeX Vorlage für Diplomarbeiten}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{wiki:BLDC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bfb88fa4e40e9725e540026e829ac7c8}{%
+           family={{Wikipedia Autoren}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \strng{fullhash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \strng{bibnamehash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \strng{authorbibnamehash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \strng{authornamehash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \strng{authorfullhash}{bfb88fa4e40e9725e540026e829ac7c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 13-March-2023]}
+      \field{title}{Bürstenloser Gleichstrommotor}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/B%C3%BCrstenloser_Gleichstrommotor
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/B%C3%BCrstenloser_Gleichstrommotor
+      \endverb
+    \endentry
+    \entry{nanotec:BLDC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1bfcd20b583af85fd1f05275e493a98e}{%
+           family={{Nanotec Electronic GmbH und Co. KG}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bfcd20b583af85fd1f05275e493a98e}
+      \strng{fullhash}{1bfcd20b583af85fd1f05275e493a98e}
+      \strng{bibnamehash}{1bfcd20b583af85fd1f05275e493a98e}
+      \strng{authorbibnamehash}{1bfcd20b583af85fd1f05275e493a98e}
+      \strng{authornamehash}{1bfcd20b583af85fd1f05275e493a98e}
+      \strng{authorfullhash}{1bfcd20b583af85fd1f05275e493a98e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 13-March-2023]}
+      \field{title}{Bürstenlose DC-Motoren}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://de.nanotec.com/produkte/156-bldc-buerstenlose-dc-motoren#:~:text=Die%20meisten%20BLDC%2DMotoren%20sind,in%20der%20Magnete%20angebracht%20sind.
+      \endverb
+      \verb{url}
+      \verb https://de.nanotec.com/produkte/156-bldc-buerstenlose-dc-motoren#:~:text=Die%20meisten%20BLDC%2DMotoren%20sind,in%20der%20Magnete%20angebracht%20sind.
+      \endverb
+    \endentry
+    \entry{lgeeks:BLDC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2156f6b2058791146816946e848eb240}{%
+           family={{Sneha Panda}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2156f6b2058791146816946e848eb240}
+      \strng{fullhash}{2156f6b2058791146816946e848eb240}
+      \strng{bibnamehash}{2156f6b2058791146816946e848eb240}
+      \strng{authorbibnamehash}{2156f6b2058791146816946e848eb240}
+      \strng{authornamehash}{2156f6b2058791146816946e848eb240}
+      \strng{authorfullhash}{2156f6b2058791146816946e848eb240}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 13-March-2023]}
+      \field{title}{Outrunner vs Inrunner: Vergleichende Analyse zu DC, BLDC, Elektromotor und Fakten}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://de.lambdageeks.com/outrunner-vs-inrunner/
+      \endverb
+      \verb{url}
+      \verb https://de.lambdageeks.com/outrunner-vs-inrunner/
+      \endverb
+    \endentry
+    \entry{cdyn:BLDC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=47bb3b3366918d887d1eed648bae5d29}{%
+           family={{Compact Dynamics GmbH}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{47bb3b3366918d887d1eed648bae5d29}
+      \strng{fullhash}{47bb3b3366918d887d1eed648bae5d29}
+      \strng{bibnamehash}{47bb3b3366918d887d1eed648bae5d29}
+      \strng{authorbibnamehash}{47bb3b3366918d887d1eed648bae5d29}
+      \strng{authornamehash}{47bb3b3366918d887d1eed648bae5d29}
+      \strng{authorfullhash}{47bb3b3366918d887d1eed648bae5d29}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 14-March-2023]}
+      \field{title}{Aviation}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.compact-dynamics.de/aviation/
+      \endverb
+      \verb{url}
+      \verb https://www.compact-dynamics.de/aviation/
+      \endverb
+    \endentry
+    \entry{sflix:Kommutierung}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ad2640e5ee9f833ffa583c893e2b37cf}{%
+           family={{Studyflix GmbH}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \strng{fullhash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \strng{bibnamehash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \strng{authorbibnamehash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \strng{authornamehash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \strng{authorfullhash}{ad2640e5ee9f833ffa583c893e2b37cf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 14-March-2023]}
+      \field{title}{Bürstenloser Gleichstrommotor}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://studyflix.de/elektrotechnik/burstenloser-gleichstrommotor-1426
+      \endverb
+      \verb{url}
+      \verb https://studyflix.de/elektrotechnik/burstenloser-gleichstrommotor-1426
+      \endverb
+    \endentry
+    \entry{SPSM:SLKomm}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3880a1e44bf5aba563ceaab04590f739}{%
+           family={{Dipl.-Stat. B. Al-Scheikly}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3880a1e44bf5aba563ceaab04590f739}
+      \strng{fullhash}{3880a1e44bf5aba563ceaab04590f739}
+      \strng{bibnamehash}{3880a1e44bf5aba563ceaab04590f739}
+      \strng{authorbibnamehash}{3880a1e44bf5aba563ceaab04590f739}
+      \strng{authornamehash}{3880a1e44bf5aba563ceaab04590f739}
+      \strng{authorfullhash}{3880a1e44bf5aba563ceaab04590f739}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 18-March-2023]}
+      \field{title}{Sensorlose Ansteuerung}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.sps-magazin.de/antriebstechnik/sensorlose-ansteuerung/
+      \endverb
+      \verb{url}
+      \verb https://www.sps-magazin.de/antriebstechnik/sensorlose-ansteuerung/
+      \endverb
+    \endentry
+    \entry{ASPINA:BLDC}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=34528a4164423222f6845308bca5bd60}{%
+           family={{Shinano Kenshi}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{34528a4164423222f6845308bca5bd60}
+      \strng{fullhash}{34528a4164423222f6845308bca5bd60}
+      \strng{bibnamehash}{34528a4164423222f6845308bca5bd60}
+      \strng{authorbibnamehash}{34528a4164423222f6845308bca5bd60}
+      \strng{authornamehash}{34528a4164423222f6845308bca5bd60}
+      \strng{authorfullhash}{34528a4164423222f6845308bca5bd60}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 18-March-2023]}
+      \field{title}{Brushless DC motor applications: examples that demonstrate their features}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://eu.aspina-group.com/en/learning-zone/columns/what-is/016/
+      \endverb
+      \verb{url}
+      \verb https://eu.aspina-group.com/en/learning-zone/columns/what-is/016/
+      \endverb
+    \endentry
+    \entry{SONCEBOZ}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2e1f409845dca854ae4ae194d18818dc}{%
+           family={SA},
+           familyi={S\bibinitperiod},
+           given={Société\bibnamedelimb Industrielle\bibnamedelimb De\bibnamedelima Sonceboz},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Société Industrielle De Sonceboz SA}%
+      }
+      \strng{namehash}{2e1f409845dca854ae4ae194d18818dc}
+      \strng{fullhash}{2e1f409845dca854ae4ae194d18818dc}
+      \strng{bibnamehash}{2e1f409845dca854ae4ae194d18818dc}
+      \strng{authorbibnamehash}{2e1f409845dca854ae4ae194d18818dc}
+      \strng{authornamehash}{2e1f409845dca854ae4ae194d18818dc}
+      \strng{authorfullhash}{2e1f409845dca854ae4ae194d18818dc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technical customer information CPM90 SONCEBOZ NR. : 5934, 5932}
+      \field{type}{techreport}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

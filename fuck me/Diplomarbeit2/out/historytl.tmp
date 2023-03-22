@@ -1,0 +1,4 @@
+\begin{HistoryTimeline}[\HistoryTimelineTitle ]
+\HistoryTlEntry{2023-03-22}{05ee264}{\directlua{tex.sprint(-2, "\luaescapestring{\unexpanded{mhof69}}")}}{\directlua{tex.sprint(-2, "\luaescapestring{\unexpanded{chore: Merge changes from template}}")}}
+\HistoryTlEntry{2023-03-22}{4c1ddd0}{\directlua{tex.sprint(-2, "\luaescapestring{\unexpanded{mhof69}}")}}{\directlua{tex.sprint(-2, "\luaescapestring{\unexpanded{Initial commit}}")}}
+\end{HistoryTimeline}

@@ -1,0 +1,67 @@
+\documentclass[a4paper]{hitec}
+\settextfraction{0.95}      % reduce left margin
+
+\usepackage{styles/main}
+\usepackage{styles/custom}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+
+\author{Michael Hofer}
+\company{HTBLA Weiz}
+
+% ----- Informationen über die Diplomarbeit -----
+
+\htltitle{Projektname}
+\AbgabeTermin{28.03.2023}
+
+\DeckblattBild{images/emily.jpg}
+
+\Diplomand{Diplomand 1}{5AHET}
+\Diplomand{Diplomand 2}{5BHET}
+\Diplomand{Diplomand 3}{5AHMBT}
+\Diplomand{Diplomand 4}{5AHMBU}
+\Diplomand{Diplomand X}{5AHWIM}
+
+\Betreuer{Betreuer 1}
+\Betreuer{Betreuer X}
+
+\PartnerFirma{Firma 1}
+\PartnerFirmaBetreuer{Betreuer}{Person 1}
+\PartnerFirmaBetreuer{Ansprechperson}{Person 2}
+\PartnerFirmaBetreuer{Kontaktperson}{Person X}
+
+\PartnerFirma{Firma X}
+\PartnerFirmaBetreuer{Vertreter X}{Person Y}
+
+% -----------------------------------------------
+
+\begin{document}
+\settocdepth{section}
+
+\printDeckblatt
+\printEidesstatt
+\input{src/00_Allgemein/01_Kurzbeschreibung.tex}
+\input{src/00_Allgemein/02_Vorbemerkung.tex}
+\printInhaltsverzeichnis
+
+\settocdepth{subsection}
+
+
+% Diese Zeile kann ohne Bedenken entfernt werden,
+% sie wird nur verwendet, um die korrekte Ausführung
+% der Vorlagenfunktionen zu testen.
+\include{src/03_BLDC-Motor.tex}
+
+
+\include{src/04_SONCEBOZ.tex}
+
+\include{src/05_CAN.tex}
+
+\printLiteratur     % Literatur
+\printAbbildungen   % Abbildungsverzeichnis
+\printTabellen      % Tabellenverzeichnis
+\printAkronyme      % Abkürzungsverzeichnis
+\printFullChangelog % Vollständiger Änderungsverlauf
+
+\end{document}

@@ -1,0 +1,50 @@
+
+\babel@toc {german}{}\relax 
+\save@tocdepth \setcounter {tocdepth}{1}
+\contentsline {section}{Eidesstattliche Erklärung}{2}{section*.1}%
+\contentsline {section}{Kurzbeschreibung}{3}{section*.2}%
+\contentsline {section}{Abstract}{3}{section*.3}%
+\contentsline {section}{Vorwort}{4}{section*.4}%
+\contentsline {section}{Änderungsverlauf}{4}{section*.5}%
+\contentsline {section}{Inhaltsverzeichnis}{5}{section*.6}%
+\contentsline {section}{\numberline {1}Bürstenloser Gleichstrommotor BLDC}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Grundlegende Funktionen}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Innenläufer}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Au{\ss }enläufer}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Kommutierung}{7}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Sensorgesteuerte Kommutierung}{7}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Sensorlose Kommutierung}{8}{subsubsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}Einsatzbereiche von bürstenlosen Gleichstrommotoren}{8}{subsection.1.5}%
+\save@tocdepth \setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {2}SONCEBOZ BLDC-Motor (CPM90 5934)}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Technische Daten}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Funktionsdiagramm und PIN-Belegung}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Blockschaltbild und Bauteilbeschreibung}{12}{subsection.2.3}%
+\contentsline {section}{\numberline {3}CAN-Bus}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Funktionsweise}{14}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Multimaster Prinzip}{15}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}CSMA/CR}{16}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Non Return to Zero (NRZ-Bitcodierung)}{17}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Topologie}{17}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Anwendungsbereiche}{18}{subsection.3.3}%
+\contentsline {section}{Literatur}{19}{section*.8}%
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{20}{section*.10}%
+\contentsline {section}{Tabellenverzeichnis}{21}{section*.12}%
+\contentsline {section}{Abkürzungsverzeichnis}{22}{section*.14}%
+\contentsline {section}{Vollständiger Änderungsverlauf}{23}{section*.15}%

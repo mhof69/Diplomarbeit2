@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'out/main.blg'
+[124] biber-MSWIN32:340> INFO - === 
+[163] Biber.pm:419> INFO - Reading 'out/main.bcf'
+[301] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[318] Biber.pm:4419> INFO - Processing section 0
+[332] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[381] bibtex.pm:1713> INFO - LaTeX decoding ...
+[394] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[461] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[461] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[461] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[461] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[472] bbl.pm:660> INFO - Writing 'out/main.bbl' with encoding 'UTF-8'
+[476] bbl.pm:763> INFO - Output to out/main.bbl
+[476] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\michi\AppData\Local\Temp\biber_tmp_T2A1\33e59b5ca9ec342068223d604c3f8d55_18616.utf8, line 29, warning: 637 characters of junk seen at toplevel
+[476] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\michi\AppData\Local\Temp\biber_tmp_T2A1\33e59b5ca9ec342068223d604c3f8d55_18616.utf8, line 90, warning: 18 characters of junk seen at toplevel
+[477] Biber.pm:133> INFO - WARNINGS: 2
